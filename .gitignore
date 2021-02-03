@@ -1,0 +1,4 @@
+.vs/
+UwpDemoApp/bin/
+UwpDemoApp/obj/
+UwpDemoApp/*.csproj.user
